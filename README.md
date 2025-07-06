@@ -52,19 +52,22 @@ Smooth micro-interactions & hover animations
 Fully responsive mobile-first layout
 
 ## ⚙️ Getting Started
-### 1. Clone the repo
 
-``` git clone https://github.com/your-username/personal-finance-visualizer.git
-cd personal-finance-visualizer ```
+### 1. Clone the repo
+```
+git clone https://github.com/your-username/personal-finance-visualizer.git
+cd personal-finance-visualizer
+
+```
 
 ### 2. Install dependencies
-
-``` npm install ```
-
+```
+ npm install 
+```
 ### 3. Run the development server
-
-``` npm run dev ```
-
+```
+npm run dev 
+```
 ### The app will be running at http://localhost:3000
 
 ### 🛠️ Configuration
